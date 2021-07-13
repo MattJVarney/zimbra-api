@@ -13,8 +13,8 @@
     ],
     "require": {
         "php": ">=5.5.0",
-        "evenement/evenement": "~2.0",
-        "guzzlehttp/guzzle": "6.*",
+        "evenement/evenement": "~3.0",
+        "guzzlehttp/guzzle": "^7",
         "phpcollection/phpcollection": "0.*"
     },
     "require-dev": {
